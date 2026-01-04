@@ -1,5 +1,5 @@
 # 💫 About Me:
-Computer Science student passionate about building scalable web applications and solving real-world problems using modern web technologies.<br><br>I’m currently working on :<br>MERN stack projects with a strong focus on backend development<br>Real-time applications using Socket.io<br>A surplus food donation platform<br><br>I’m looking to collaborate on<br>Open-source MERN projects<br>Social impact & sustainability-based applications<br>Backend-heavy or real-time systems<br><br> I’m currently learning<br>Advanced Node.js & Express<br>MongoDB performance & aggregation<br>DevOps fundamentals (Docker, CI/CD, Cloud)<br><br> Fun fact<br>I enjoy turning complex backend logic into clean, simple APIs<br><br>
+Computer Science student passionate about building scalable web applications and solving real-world problems using modern web technologies.<br><br>I’m currently working on :<br>MERN stack projects with a strong focus on backend development<br>Real-time applications using Socket.io<br>A surplus food donation platform<br><br> I’m currently learning<br>Advanced Node.js & Express<br>MongoDB performance & aggregation<br>DevOps fundamentals (Docker, CI/CD, Cloud)<br><br> Fun fact<br>I enjoy turning complex backend logic into clean, simple APIs<br><br>
 
 
 ## 🌐 Socials:
