@@ -1,6 +1,5 @@
 # 💫 About Me:
-Computer Science student passionate about building scalable web applications and solving real-world problems using modern web technologies.<br><br>I’m currently working on :<br>MERN stack projects with a strong focus on backend development<br>Real-time applications using Socket.io<br>A surplus food donation platform<br><br><br> I’m currently learning :<br>Advanced Node.js & Express<br>MongoDB performance & aggregation<br>DevOps fundamentals (Docker, CI/CD, Cloud)<br><br> <br>
-
+Computer Science student passionate about building scalable web applications and solving real-world problems using modern web technologies.<br><br>I’m currently working on :<br>MERN stack projects with a strong focus on backend development<br>Real-time applications using Socket.io<br>A surplus food donation platform
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/udita-singh1294) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:udita1294@gmail.com) 
